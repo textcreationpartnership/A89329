@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moro-mastix: Mr Iohn Goodwin whipt with his own rod. Or The dis-secting of the sixteenth section of his book truly nam'd by himself Hagio-Mastix: so far as it falsly and frivolously mentions a late disputation in Christ-Church-Parish, concerning the lawfulness of paying tythes. / By a diligent observer of the said disputation.</title>
+            <author>A Diligent Observer of the Said Disputation.</author>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89329</idno><idno type="EEBO-CITATION">99861910</idno>
+  <idno type="VID">114056</idno>
+  <idno type="EEBO-PROQUEST">2240940049</idno>
+  
+            <idno type="STC">Wing M2807</idno>
+            <idno type="STC">Thomason E378_25</idno>
+            <idno type="STC">ESTC R201390</idno>
+            <idno type="PROQUEST">99861910</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861910e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114056)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moro-mastix: Mr Iohn Goodwin whipt with his own rod. Or The dis-secting of the sixteenth section of his book truly nam'd by himself Hagio-Mastix: so far as it falsly and frivolously mentions a late disputation in Christ-Church-Parish, concerning the lawfulness of paying tythes. / By a diligent observer of the said disputation.</title>
+                  <author>A Diligent Observer of the Said Disputation.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Underhill, and are to be sold at his shop at the sign of the Bible in great Woodstreet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 8[?] 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Goodwin, John, 1594?-1665. --  Hagiomastix --  Early works to 1800.</term>
+               <term type="topical_term">Tithes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114056:1"/>
+            <p>
+               <hi>MORO-MASTIX:</hi> M<seg rend="sup">r</seg> Iohn Goodwin whipt with his own ROD. OR The dis-secting of the sixteenth Section of his book truly nam'd by himself <hi>HAGIO-MASTIX:</hi>
+            </p>
+            <p>So far as it falsly and frivolously mentions a late disputation in Christ-Church Parish, concer<g ref="char:EOLhyphen"/>ning the lawfulness of paying Tythes.</p>
+            <p>By a diligent observer of the said Disputation.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 26.3.</hi>
+               </bibl>
+               <p>A whip for a Horse, a bridle for the Asse, and a Rod for a fools back.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PROV. 26.5.</hi>
+               </bibl>
+               <p>Answer a Fool in his folly, least he be wise in his own conceit.</p>
+            </q>
+            <q>
+               <bibl>TIT. 1.13.</bibl>
+               <p>
+                  <hi>Rebuke them</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>sharply, or</hi> (as Mr Goodwin renders it) <hi>cuttingly.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for THO. UNDERHILL, and are to be sold at his shop at the sign of the Bible in great Woodstreet. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:114056:2"/>
+            <pb n="3" facs="tcp:114056:2"/>
+            <head>
+               <hi>Moro-Mastix,</hi> M<seg rend="sup">r</seg> GOODVVIN whipt with his own Rod.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Title of your Book is <hi>Hagio-mastix,</hi> in your own English a <hi>scourge of the Saints.</hi> None deny your pen to be the scourge, but many doubt who are Saints. Surely the Saints you scourge are no Se<g ref="char:EOLhyphen"/>ctaries, your work is not to whip them for their fals but to wipe them from their foulness, whensoever they wallow in their impure puddles. Sir, you must needs have a sweet Of<g ref="char:EOLhyphen"/>fice, and fine fingers to be boot-catcher in common to all the Sectaries, to make them clean whensoever they step into their mire of sin. I now understand the meaning of your complaint in the sixteenth Section of your Epistle, where you thus write: <hi>My work sticks so close to my hands that I cannot cleer them of it:</hi> Sir, I neither envy your function nor your fingers.</p>
+            <p>Your book is called, <hi>The scourge of the Saints.</hi> Ill exprest, had your book no more of the Scourge than of the Saint, it might easily lodge in half a Nut-shell.</p>
+            <p>Your book is the <hi>scourge of the Saints;</hi> and yet 'tis a scourge to none but Presbyterians. Reader, judge then who are the Saints by his own confession. Sir, the prayses of your pen are as far from our liking, as your intending.</p>
+            <p>But we will take your own meaning, by Saints you mean Sectaries. Sir, where is modesty to commend your self, the master-Sectary of the City? if ordinary Sectaries be Saints, you are an Angel sure:</p>
+            <q>
+               <l>If that the man such prayse must have</l>
+               <l>What then shall he that keeps —</l>
+            </q>
+            <p>But are Sectaries Saints? yes, in Satans Kalender; Saints <hi>per
+<pb n="4" facs="tcp:114056:3"/>antiphrasin,</hi> as <hi>auri sacra fames,</hi> as the whore is in the <hi>hebr,</hi> denominated from a root that signifieth to be holy, or as the Pope hath the title of holiness. These late monopolists of sanctity differ as much from scripture Saints, old non-conforming Saints, nay, I am confident from some thousands of Saints in New Eng<g ref="char:EOLhyphen"/>land, as PERKIN WARBECK from the true PLANTA<g ref="char:EOLhyphen"/>GENET, a Stage-player from a King, a gaudy page from an high-born Prince, a morris-dancer from an Emperor. True san<g ref="char:EOLhyphen"/>ctity I love, I admire as a spark of the heavenly flame, a ray from the sun of righteousness, the divine nature, a slip of Paradise, the best sute of the soul, the first fruits of glory, in a word, hea<g ref="char:EOLhyphen"/>ven upon earth, the subjects whereof I look upon as the truely excellent ones, sons of the great king, heires of Immortality.</p>
+            <p>But bare pretenders to sanctity that have the Saints name and Satans nature, I think them as Apes and Monkies (those <hi>ludibria naturae</hi>) by so much the ugliest of ereatures, by how much the thing excels which they imitate. A lying deceitfull Saint, a se<g ref="char:EOLhyphen"/>ditious hereticall saint, an unclean prophane saint, a saint of the new Edition, a Gangraena'd saint; saint Oates, saint Gorton, saint Lilburn, saint Seeker, saint Dipper, saint Antiscripturist; in a word such saints as all along Master <hi>Goodwin</hi>
+               <note n="*" place="margin">Vocat se <hi>Ioh. Goodw.</hi> fauto<g ref="char:EOLhyphen"/>rem sancto<g ref="char:EOLhyphen"/>rum, sed in to<g ref="char:EOLhyphen"/>to opere per sanctos, scis<g ref="char:EOLhyphen"/>maticos suos &amp; Brownistas in<g ref="char:EOLhyphen"/>telligit. Ca<g ref="char:EOLunhyphen"/>lumniatorille, omnes Ana<g ref="char:EOLhyphen"/>baptistas, An<g ref="char:EOLhyphen"/>tinomos, Arri<g ref="char:EOLhyphen"/>anos, nulla di<g ref="char:EOLhyphen"/>stinctionefacta sanctorum ti<g ref="char:EOLhyphen"/>tulo includit. i. e. <hi>Iohn Goodwin</hi> calls himself the favourer of the Saints, but all his book over, he only understands by Saints Schismatick, and Brownists. This Railer, without making distinction, includes Anabaptists, Antinomians, and Arrians under the title of Saints, <hi>Honor. Reg.</hi> pag 124. Yea, Mr J. G. accounts those to be Saints, and sayes they are holy and heavenly, who deny, that, God is one in three persons, <hi>Hagio-ma. p.</hi> 36. <hi>Sect.</hi> 27.</note> canonizeth, the Saints here joyned with the scourge are but Aulchamy-christians, pit-fals and gins in Religion, dung-hils covered over with snow, Bristol-diamonds, chimney-peeces. Sir, your placing your Saints in the Title of your book seems to be a significant Cere<g ref="char:EOLhyphen"/>mony, that they are Saints only in title, Citizens of the new, as the King of Spain is King of the old Jerusalem. We see whom you mean by Saints, your complaint is, that</p>
+            <p>
+               <hi>These Saints have a scourge]</hi> You should have said <hi>are a scourge,</hi> and I am confident the greatest that the power of god<g ref="char:EOLhyphen"/>liness ever felt; they being the Tayl of the Dragon, Satans last experiment against the Church, his Master-peece shaped some<g ref="char:EOLhyphen"/>times to that exactness that if 'twere possible <hi>the very Elect should be deceived by them.</hi>
+            </p>
+            <pb n="5" facs="tcp:114056:3"/>
+            <p> You complain of a scourge, and we wonder not, the holy ghost fore-tels you, <hi>murmurrers, complainers,</hi> and for the <hi>scourge</hi> you know, who it was that complained before you of <hi>torment,</hi> both of you, <hi>before your times;</hi> I fear your greatest torture is that of your own galled-consciences, for any other we know none unless it be a scourge to you, that you may not scourge Christ more, the work of Reformation, the Ministers of the Gospel: your Bedlam Opinions deserve the scourge, and were your sins scourged no more than your sides, surely you would never complain. I confess some of your are scourged and payed very sorely, but it is with Pensions, with great Offices, and sti<g ref="char:EOLhyphen"/>pends: sure I am the little finger of New England, hath been heavier than the loynes of Old, their scourges sharper than our scorpions: consult with those your brethren that were banished thence into the Isle of Errors, (a place that Mr <hi>G.</hi> is in a fair way to see before he dyeth) and particularly ask <hi>Sam. Gorton</hi> whe<g ref="char:EOLhyphen"/>ther the whip wherewith the Civil Magistrate made him to be whipt, was the <hi>scourge of the Saints</hi> or no? but the vomit of New England is food good enough for Mr <hi>G.</hi> and those that the godly account Devils there, he accounts Saints here.</p>
+            <p>In the sixteenth Section of the Epistle to the Reader you write to this effect.</p>
+            <p>
+               <hi>This generation having a faculty to make verball victories of reall disasters,</hi>
+               <note place="margin">
+                  <hi>Sect.</hi> 16. Epistle to the Reader.</note>
+               <hi>importunely applaud their champions (which were four if not five to two) and congratulate their great suc<g ref="char:EOLhyphen"/>cesse in a disputation held in Christ-Church Parish, about the lawfulness, not so much of the payment as of the demand of tithes by the Minister.</hi>
+            </p>
+            <p>I must take this lump of lyes in peeces.</p>
+            <p>
+               <hi>This generation</hi>]</p>
+            <p>
+               <hi>Generation,</hi> is a very comprehensive word;<note place="margin">Sect. Dissect.</note> you are willing the Reader should doubt whether they be a generation of men or beasts, or if of men, whether they be fit to be nam'd with your selves the same day; and the scornfull distin<g ref="char:EOLhyphen"/>ctive addition <hi>(This)</hi> imports it. <hi>God, I thank thee, I am not as THIS Publican:</hi> you know the passage, apply it. You cannot name the holiest of your adversaries without a squemish diminution; the ancientest and highest of ours in the school of
+<pb n="6" facs="tcp:114056:4"/>Christ, never got beyond the degree of a <hi>pretty man</hi> with you, the meanest and youngest of yours shall commence <hi>precious, per saltum,</hi> even before they are so much as pretty.</p>
+            <p>But what of this generation?</p>
+            <p>
+               <hi>They have one faculty</hi>]</p>
+            <p>No hurt in this, some of your generation have many faculties, and some of them none of the best.</p>
+            <p>
+               <hi>Many:</hi> One man hath a faculty to sell chickens dead and alive, and to preach too. Another a faculty to be in his stall six dayes in the week, and on the next day a faculty (though which is strange, neither authority nor sufficiency) to supply Mr <hi>Good<g ref="char:EOLhyphen"/>wins</hi> place better than himself would have done.</p>
+            <p>
+               <hi>None of the best:</hi> a faculty to lye, libell, be hereticall and Blasphemous, and yet, which is the wonder; a faculty to call them<g ref="char:EOLhyphen"/>selves Saints when they have done.</p>
+            <p>But what is this generations one facultie?</p>
+            <p>
+               <hi>To make verball victories</hi>]</p>
+            <p>Why give you them so much as the word <hi>victory?</hi> 'tis beyond the strain of your ordinary ingenuity to name this generation and a <hi>victory</hi> in the same breath, Presbyterians pursue victory (though, truth more) and cannot reach her: Sectaries flye from Victorie and cannot shun her: <hi>victories</hi> fall into your mouthes as you sleep. Was there ever Presbyterian that had a Victory? though they non-plus you and make you yeeld the cause; yet I never thought they had the Victory till now.</p>
+            <p>But the Victories are onely</p>
+            <p>
+               <hi>Verball</hi>]</p>
+            <p>Reader let thy ingenuity be the judge, who are the <hi>Verbally</hi> victorious; the wordy men, the paper-performers of the times; not they surely who being not so prodigall, either of money or modesty, dare not maintain three Pamphleteers, to pen their weekly prayses to the ends of the Island, that so the small print of a performance, may be turned into a great character by the spectacles of a Diurnall: many a weighty merit of Presbyte<g ref="char:EOLhyphen"/>rians sinks to the bottome and lyeth hid, while the feathery ser<g ref="char:EOLhyphen"/>vices of every Sectary shall swim a top and be seen. Sir, we lay the brat of verbalizing at your own door, your ordinary pro<g ref="char:EOLhyphen"/>portion is a drop of truth to a sea of words.</p>
+            <pb n="7" facs="tcp:114056:4"/>
+            <p> But, what are these verball Victories made of?</p>
+            <p>
+               <hi>Reall disasters</hi>]</p>
+            <p>Here the man is like himself, dusty and misty. If he means the Presbyterians make <hi>verball Victories</hi> of the <hi>reall disasters,</hi> that they bring upon Sectaries it is non-sence. If he means that the Presbyterians make <hi>verball Victories</hi> of the <hi>reall disasters</hi> that the Sectaries bring upon them; let him shew when and where the Sectaries brought such <hi>reall disasters</hi> upon the Pres<g ref="char:EOLhyphen"/>byterians. The Presbyterians care not how many such <hi>reall disasters</hi> they have, as they had at the disputation at Christ-Church. Every week one as long as you pleas: it was such a dis<g ref="char:EOLhyphen"/>aster that made some of your faint followers glad to call for the <hi>aqua-vitae</hi> bottle of an <hi>hagio-mastix,</hi> to recover their spirits, which yet being but simple water without life, recovers none.</p>
+            <p>But wherein stands the <hi>verbalness</hi> of the victory?</p>
+            <p>
+               <hi>In applauding their Champions &amp;c.</hi>
+            </p>
+            <p>If you grant them Champions, we dare grant them their due applause; though I hope those whom you call our Champions may they gain but people to Christ, care not for so much as a shoo-latchet of applause: it is better to have Champions with<g ref="char:EOLhyphen"/>out applause, than to have applause without Champions. It was your unsavory twit against Mr <hi>Edwards</hi> (not no where) that you had not so much leisure to write as others, because you preacht not to empty Churches: but tell me whether is it more commendable for a full preacher to have an empty Church, or a full Church to have an empty preacher. Chickens whether dead or alive are very good food for Sectaries, Smug the Smith or the Exchange-man are as good as the best with you. Sir, if we be champion-applauders, you are pigmee-applauders: but I do ill to tell you so much of praising your selves, for it is the strongest Ar<g ref="char:EOLhyphen"/>gument you have to proove the Presbyterians ill neighbours.</p>
+            <p>But why do they so much applaud their Champions?</p>
+            <p>
+               <hi>For a great successe at a Disputation</hi>]</p>
+            <p>
+               <hi>A Disputation</hi> it seems you grant it to be: but seriously you stile it what I dare not, for every Disputation implyes an Answe<g ref="char:EOLhyphen"/>rer: but I saw much more of the Despondent than of the Re<g ref="char:EOLhyphen"/>spondent among you.</p>
+            <p>
+               <hi>For the successe of the Disputation,</hi> Sir, call it not great in a
+<pb n="8" facs="tcp:114056:5"/>jeer: though it were not so great as to boast of in regard it did not change your minds; yet neither was it so smal as to be ashamd of, in regard (to use your own words) it stopt your mouthes. Great or small be the successe, had it been on your side the next Diurnall should have trumpetted it out as far as Michaels Mount in Cornwall before this time.</p>
+            <p>You speak of our great success in scorn, and well you may, I confesse we have not the Sectarian way of success; a Sectary and success seem almost undivided companions. Be his head ne<g ref="char:EOLhyphen"/>ver so dull, his heart never so unfaithfull, his coat never so thread<g ref="char:EOLhyphen"/>bare, will he but serve I know not what design; showres of in<g ref="char:EOLhyphen"/>visible gains shall rain through his crack't conscience, and the man of guilt shall suddenly be metamorphiz'd into a calf of gold, and is not this success? Sir, honesty is better than success at all times; Sectaries are generally as far from a surfet with honesty, as Presbyterians with money. Reader note this by the way.</p>
+            <p>But about what was this successfull Disputations?</p>
+            <p>
+               <hi>About the lawfulness of paying Tythes</hi>]</p>
+            <p>True Sir, and tell the Reader withall that Mr <hi>J. G.</hi> appeared there to Defend the Negative, <hi>The unlawfulnes of paying Tythes</hi> (for, else he appeared to no purpose) <hi>in Gospel-times.</hi> A task so odious that not without difficulty (as it is thought) an assistant was procured to Mr <hi>Goodwin;</hi> all supposing that Mr <hi>Cox</hi> was not there upon choise but taken up upon necessity.</p>
+            <p>Yet Mr <hi>Goodwin</hi> (as <hi>Doeg</hi> when none else could be found) Ventures, enters, appeares to do his devoire as a respondent a<g ref="char:EOLhyphen"/>gainst the lawfulness of that maintenance which the Christian Magistrate hath set out for the Ministers of the Gospell in his Dominions; the wonder of which wickedness was the greater in regard that in his own judgement and conscience (if any be left) he is beleev'd to hold Tythes lawfull; for, he himself for di<g ref="char:EOLhyphen"/>vers years lived upon the said maintenance by Tythes in Norfolk &amp; yet he never, that I could hear of, since that time of his Norfolk-tythe-taking, made acknowledgement of any unlawfulness in, (much lesse, made restitution for) that publike and known course. 2. Some of his own followers professed, since the debate, by way of Apologie for him, that his judgement was still for Tythes as the Disputants were; and will you (said they) blame a man
+<pb n="9" facs="tcp:114056:5"/>for not answering against his judgement. 3. I am sure being ear<g ref="char:EOLhyphen"/>nestly, openly, and respectfully requested by a Minister, once, twice, and thrice, immediately before the disputation began, to declare his judgement concerning the unlawfulness of tythes, he totally declined it. 4. In the disputation he was driven (whither by force of Argument, or conscience, himself best knows) to confess that for any Judaicalnes or typicalnes, it is now as lawfull to pay tythes for the maintaining of the Ministery, as for the maintaining of an Army, onely he said, some<note n="*" place="margin">He cals his Clients weak and in<g ref="char:EOLhyphen"/>considerable, by craft.</note> weak and inconsiderable (or inconsiderate, I well remember not whether) people might think otherwise, which was a gross granting of the cause, even to the being pitied by his opponents.</p>
+            <p>Now sir, re-collect your self, was it not enough for you, against your own judgement to endeavour the defending of a rotten cause, and having sought God to direct you and the peo<g ref="char:EOLhyphen"/>ple in a right way, to resolve to lead them in a wrong? was not all this, I say, enough, but that, since the disputation, for the prop<g ref="char:EOLhyphen"/>ping up of your tottering reputation, in stead of Arguments, as a Schollar to redeem your credit, or of repentance, as a Christian to wash your conscience, you must needs publish to the world a fals and frivolous scoff, viz. that the two Arguments brought by your opponent, moved the matter in question no more than <hi>two silly Lambs could draw a waggon?</hi> Sir, my soul pitties both your spirituall and outward condition; the former for your ad<g ref="char:EOLhyphen"/>ding sin to sin, and giving no signs but of a vain unsavory spirit unto this day: the latter, in regard I fear the world will look upon you, 'till you repent, as sins Solicitor, Satans brewer, a wal<g ref="char:EOLhyphen"/>king <hi>Amsterdam,</hi> the turn-key to every untruth, the City-Ishmael, the Attorney for a toleration, and a very Pandor to the lusts of the people. You add, that the disputation.</p>
+            <p>
+               <hi>Was not so much about the lawfulness of paying as demanding tythes]</hi>
+            </p>
+            <p>Truely sir, I see your memory is as short, now, as were your answers, before; I affirm that the question propounded was concerning the lawfulness of paying tithes in Gospel-times; for I know no demanders of tithes that came to the discourse scrupul'd, and had they been so, I think they would not have
+<pb n="10" facs="tcp:114056:6"/>chosen Mr <hi>Iohn Goodwin</hi> to have satisfied their consciences, such a dusty deliverer, such a fumbling resolver.</p>
+            <p>You add.</p>
+            <p>There was nothing said in that dispute but what had <hi>tantum for quantum. Answer for Argument in full return</hi>]</p>
+            <p>By <hi>tantum and quantum,</hi> he means he gave as much as was brought; we never denyed but you gave as much. But, sir, it had been more to your commendation to have given <hi>as good as was brought;</hi> it is true for the <hi>quantum</hi> your answers were suffici<g ref="char:EOLhyphen"/>ent, but for the <hi>quale</hi> they were nothing worth: had you given us a bushel of pibbles for a cabinet of pearles, we could neither have blam'd your <hi>tantum</hi> nor your <hi>quantum:</hi> you see poor peo<g ref="char:EOLhyphen"/>ple, what you are to look for, from these men; nothing but quantity, measure, words; Gorton and the Chicken-man are as good at <hi>tantum</hi> and <hi>quantum</hi> as the best of you. Sir, had your weight been more and your measure lesse, it would have done better.</p>
+            <p>You proceed:</p>
+            <p>
+               <hi>You know no man that came scrupul'd in the point, that went away satisfied.</hi>
+            </p>
+            <p>It is a sign you know not your self; and if you went not away satisfied, you went away convinced, even to a cleer yeelding the cause: he that is convinced in such a question, and is not satis<g ref="char:EOLhyphen"/>fied, must give me leave to fear, That his Religion begins at his pockets.</p>
+            <p>But if none other could satisfie the scrupul'd people: Sir, why did not you then endeavour it? some think your own advantage is the reason why you still desire to keep them under cure: Why did you labour to make those who deny'd tythes out of weak<g ref="char:EOLhyphen"/>nesse to be weaker, and by stifling your own conscience to con<g ref="char:EOLhyphen"/>tinue their doubts? Sir, had a Presbyterian sought thus by plea<g ref="char:EOLhyphen"/>sing their humors to poyson their souls, he would have been sus<g ref="char:EOLhyphen"/>pected to have loved their supper better than their souls; but we must be silent.</p>
+            <p>You write on.</p>
+            <p>
+               <hi>Yet some of their partie, as if they were bound by their Co<g ref="char:EOLhyphen"/>venant</hi>]</p>
+            <pb n="11" facs="tcp:114056:6"/>
+            <p>
+               <hi>Their partee</hi>] Oh this word partie is a sweet word: I wish you would spend more time in mending and lesse in making your partie: some observe that ever since your self could not get to be part of the Assembly, you have been labouring to assemble a partie.</p>
+            <p>
+               <hi>As if they were bound.</hi>
+            </p>
+            <p>It seems your partie is not bound: you break all bands ci<g ref="char:EOLhyphen"/>vill and Ecclesiasticall; and you transgress all bounds; I am confi<g ref="char:EOLhyphen"/>dent, the Sectary that snatcht away his bond from his creditor, and then refused to pay his money, thought himself not bound.</p>
+            <p>
+               <hi>By their Covenant</hi>]</p>
+            <p>And is it not your Covenant also? yes, but with this difference, you say that ourpartie think themselves bound by it.</p>
+            <p>
+               <hi>To provide per fas &amp; nefas, that Presbyterians in all things should have the preheminence.</hi>
+            </p>
+            <p>For those prophanely applyed words, that Presbyterians must in all things have the preheminence,<note place="margin">
+                  <hi>Col.</hi> 1.18. It is said, that Christ in all things might have the pre<g ref="char:EOLhyphen"/>heminence.</note> I leave your own consci<g ref="char:EOLhyphen"/>science to whip you: me thinks you might have spared the per<g ref="char:EOLhyphen"/>son of Christ, though you cannot his members, but 'tis your dar<g ref="char:EOLhyphen"/>ling indeavour to slight Christ; I beseech you, Sir, consider whe<g ref="char:EOLhyphen"/>ther this prophane application of the preheminence of Christ drop not from his pen, whose tongue, of late, openly uttered these words; <hi>I should be loath (or ashamed) to stand before God in the righteousnesse of Christ;</hi> or fully to that effect. And for your saying that Presbyterians in all things love the preheminence: Sir, I am confident there are thousands in this City of the Pres<g ref="char:EOLhyphen"/>byterian judgement, that so as Christ might have the prehemi<g ref="char:EOLhyphen"/>nence, could willingly be as low in their conditions and Estates as they are in your affections and esteem; and that's low enough, I beleeve.</p>
+            <p>You proceed, <hi>They provide for Presbytery per fas &amp; nesas, and are acted by the Maxime of the Consistory of Rome, that which cannot be done in a way of right, let it be done in a way of expediency</hi>]</p>
+            <p>We are not the first that have had this slander, the blessed Apostle saith it was <hi>slanderously reported of him.</hi>
+            </p>
+            <p>But, Sir, we can return it to you without a slander, never
+<pb n="12" facs="tcp:114056:7"/>were there in the Church of Christ such <hi>patrons of expedience;</hi> you care not what courses you take to advance the catholike cause: you live as though faith had banished fidelity out of your proceedings; I am confident there are of you that would go to <hi>Endor</hi> for a project; I could give many instances, take but two; your endeavour to stifle those holy debates, for keeping scandalous sinners from the Sacrament, that so Independency might steal away the more of our members (The reason by not no body, being given of <hi>a majes bonum</hi>) was this by right or ex<g ref="char:EOLhyphen"/>pedience? your importune urging upon Presbyterians, Lay Com<g ref="char:EOLhyphen"/>missioners, ageneration lookt upon as an abomination and as apo<g ref="char:EOLhyphen"/>chryphall hermaphrodites by your selves; tel me, was this by right or by expediency? Sir, your <hi>fas</hi> and <hi>nefas</hi> help you no more than your <hi>tantum</hi> and <hi>quantum.</hi>
+            </p>
+            <p>You go on.</p>
+            <p>
+               <hi>The City is fild with a vapour</hi> (a report you mean) <hi>that Master Goodwin and his Colleague were not able to answer</hi>]</p>
+            <p>Now he speaks out. Here's the ground of his griefe; the Ci<g ref="char:EOLhyphen"/>ty is fild with the report of his insufficient Answer: he loves to be honoured before the people; had it not been for this same City-observation, we should never have heard of him; but friend, is there not a greater than the City who sees you? think of him more, this lesse; give glory to him by Confession, seek it not to your self by Pertinacy.</p>
+            <p>For the Vapours you speak of that fill the City, I know none so noysome as those that arise out of the bog of Mr <hi>Goodwins</hi> brain,<note n="*" place="margin">If his brain be not, rather Satans smoa<g ref="char:EOLhyphen"/>kie brew-house, ven<g ref="char:EOLhyphen"/>ting out va<g ref="char:EOLhyphen"/>pours.</note> viz. the Vapours of Heresies and ungodly opinions; which have more obscured the sun of the Scriptures, and infe<g ref="char:EOLhyphen"/>cted the ayre of London, then all the Vapours and ditches about the Town; were it possible to get a Bill of spirituall mortality, I fear we should find few Parishes cleer of the pest of his opi<g ref="char:EOLhyphen"/>nions: alas poor Coleman-street, that so long hast had within thee such a pernicious pest-house to infect thee, such a smoakie brew-house to choak thee. Yet again.</p>
+            <p>
+               <hi>I was once under some thoughts of penning the contents of the said disputation</hi>]</p>
+            <p>I fear your minde was too good to hold: Re-assume it Sir,
+<pb n="13" facs="tcp:114056:7"/>when you please: Let us have an honest sincere Narrative of what was said at the disputation, pro and con, and I assure you my pen shall subscribe to the truth of it: But I pray write not in the Language of your sixteenth Section. Put us not off with <hi>tantum</hi> and <hi>quantum, a Wain and a Lamb,</hi> the story of a <hi>Cock and a Bull;</hi> Tell us not (as here you do) that we had five against your two in the disputation, when as, Sir, there spake no more then you permitted and (I think) requested; and I remember not five words spoken by any, by way of disputation against you, but by two onely: people look upon these pretences as the catchings of one neer drowning.</p>
+            <p>
+               <hi>And I may yet write something upon occasion given</hi>]</p>
+            <p>To save your longing here is an occasion given.</p>
+            <p>
+               <hi>If I could cleer my hands of other work, which as yet sticks close to them</hi>]</p>
+            <p>Complain not of dirty hands, your fingers are fit for your function, <hi>aliquid haerebit,</hi> do what you can; and if your work be to make clean every lewd Sectary (as his groom of the stool) it is as stinking as you complain it sticking: my advice is, that you would either seek a better imployment, or be sure of very good wages for this; let every Sectary be soundly rated for the Sca<g ref="char:EOLhyphen"/>venger. I know not what your standing wages are, but Master <hi>Edwards</hi> tells us, you have very good vailes. Sir, you know, <hi>bonus odor lucri.</hi>
+            </p>
+            <p>Yet more anger.</p>
+            <p>
+               <hi>I speak unfainedly, the two Arguments produced by the Pa<g ref="char:EOLhyphen"/>trons of tythes, throughly examined and lookt into, no more carried the cause then two silly Lambs could draw a Western wain of twenty hundred weight through the deepest wayes</hi>]</p>
+            <p>
+               <hi>I speak unfeighnedly</hi>] What a beggarly way of Argumen<g ref="char:EOLhyphen"/>tation is this, <hi>ipse dixit,</hi> will do it among Sectaries, not among Schollars.</p>
+            <p>
+               <hi>I speak unfeighnedly</hi>] And, that you do so seldome, that you do well to tell us when you do it.</p>
+            <p>
+               <hi>There were but two Arguments for Tythes produc'd</hi>]</p>
+            <p>Two are as good as twenty. We leave <hi>tantum</hi> and <hi>quantum</hi> to you.</p>
+            <pb n="14" facs="tcp:114056:8"/>
+            <p>
+               <hi>By the Patrons of tythes</hi>]</p>
+            <p>Here you play the sycophant and because you cannot answer their Arguments, you assail their Reputation.</p>
+            <p>
+               <hi>Which Argum<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts being fully examined and lookt into, are no more able, &amp;c.</hi> or, <hi>now I throughly ex<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mine and look into them</hi>]</p>
+            <p>An insinuation of the Reason why he could not answer the Arguments at the time of disputation, viz. because till now he did not so throughly look into them nor examine them; well, if you could not Answer because you were taken on the sudden to speak, take time (<hi>Sir</hi> you stil proceed; <hi>second-thoughts</hi>) to write.</p>
+            <p>
+               <hi>The two Arguments were no more able to carry the cause of tythes, than two silly Lambs to draw a Western Wain Loaden with two thousand weight through the deepest wayes</hi>]</p>
+            <p>And your Answers, <hi>Did no more stir the cause from their Ar<g ref="char:EOLhyphen"/>guments then a Western Wain laden with twenty thousand weight could draw the two Lambs through the deepest wayes;</hi> and there stick till I help you out.</p>
+            <p>Had the two Arguments been so weak as you pretend, you need not have feared to have set down your old Answers to them in stead of your new sooffs against them; but hereby you shew your self as audacious in scribling, as you are tame in arguing and as slenderly inhabited in the upper parts, as Cox your Colleague.</p>
+            <p>To conclude, my pen delights in discourses of a serious nature much more than Answering you according to your folly; If you will in future publish the Arguments produced against you, to<g ref="char:EOLhyphen"/>gether with your own and Master <hi>Cox's</hi> answers made to them; I shall indeavour in my reply (which I promise may I procure the consent of your opponents) to agree with you in what shall be sound sincerely written by you, and to do my best to help your memory in what you shall be short: I pray let the world once see that it is possible for Mr <hi>Goodwin</hi> to write with<g ref="char:EOLhyphen"/>out bring beholding to his <hi>quaternion</hi> of advantages above other men, viz. <hi>lying,</hi>
+               <note n="*" place="margin">
+                  <hi>J. Goodwinus</hi> Cretensium mendacissi<g ref="char:EOLhyphen"/>mus, quem omnes norunt solis calumniis et maledicen do nobilem. i.e. <hi>J. Goodwin</hi> is of all the lying Cretians the greatest Lyer, and one whomal know to be famous for nothing but slandring and reviling. <hi>Hom. Reg.</hi> p. 22.</note>
+               <hi>reviling, heresies,</hi> and <hi>prophanation of Scrip<g ref="char:EOLhyphen"/>ture;</hi> for the expunging of which four, were there made an <hi>Index Expurgatorius</hi> to your former works, I fear there would be twenty leaves obliterated for one remaining written: Sir,
+<pb n="15" facs="tcp:114056:8"/>the consistency of these things with the power of godliness is one of the hardest riddles that ever was propounded to the sons either of high or low Presbytery.</p>
+            <p>Some think the advice that was given by a Presbyterian for your Congregation to deliver you up to Sathan, contains with<g ref="char:EOLhyphen"/>in it too charitable a supposition, viz. that you are not delivered up to him already: for my part I am so charitable, as rather to desire your delivery from him than to him, for I think you want it more.</p>
+            <p>For your blasphemous twenty eighth Section against the Scrip<g ref="char:EOLhyphen"/>ture, backt with your ridiculous pamphlet cal'd, Acandle to light the Sun, I shall (as yet) only say thus much concerning it, <hi>Light</hi> and <hi>heat</hi> must not be parted: your said Section wants a candle to give fire to it more than to give light to it, and ere long I hope that <hi>Gregories</hi> hand shall be the Candlestick.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
